@@ -1,0 +1,3 @@
+# React useState Hook Not Updating State
+
+This repository demonstrates a common error in React applications where the `useState` hook doesn't update the component's state due to a missing function call. The `bug.js` file contains the erroneous code, while `bugSolution.js` provides the corrected version.  The issue highlights the importance of correctly calling the state update function provided by `useState`. The solution shows how straightforward the fix can be.
